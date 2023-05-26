@@ -4,7 +4,7 @@
 A brief description of how to run the project
 
 ### Clone the project
-1. 1. Open a terminal 
+1. Open a terminal 
 2. Clone repo git clone ```https://github.com/Frd0mF/Python-react-etl.git```
 
 ### start the backend
