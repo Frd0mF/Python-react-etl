@@ -7,7 +7,7 @@ A brief description of how to run the project
 1. Open a terminal 
 2. Clone repo ```git clone https://github.com/Frd0mF/Python-react-etl.git```
 
-### start the backend
+### Start the backend
 1. Open a terminal 
 2. Change directory ```cd backend```
 3. Create a virtual environment 
@@ -17,7 +17,7 @@ A brief description of how to run the project
 6. Apply migrations ```python3 manage.py migrate```
 7. Start the server ``` python3 manage.py runserver```
 
-### start the frontend
+### Start the frontend
 1. Open a terminal 
 2. Change directory ```cd frontend```
 3. Install dependencies ```npm i```
